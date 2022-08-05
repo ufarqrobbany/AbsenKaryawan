@@ -1,3 +1,7 @@
+# Admin
+Username : admin
+Password : admin123
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
