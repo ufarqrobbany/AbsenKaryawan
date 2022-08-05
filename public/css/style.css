@@ -1,0 +1,10 @@
+.input-group-append {
+    position: relative;
+}
+
+.input-group-text {
+    position: absolute;
+    padding: 10px 12px;
+    bottom: 100%;
+    right: 0;
+}
